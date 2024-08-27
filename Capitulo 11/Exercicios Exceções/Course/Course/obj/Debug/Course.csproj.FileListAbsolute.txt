@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\bin\Debug\Course.exe.config
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\bin\Debug\Course.exe
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\bin\Debug\Course.pdb
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\obj\Debug\Course.exe
+C:\Users\maria\OneDrive\Documentos\Curso C#\Capitulo 11\Exercicios Exceções\Course\Course\obj\Debug\Course.pdb
