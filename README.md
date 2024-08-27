@@ -2,7 +2,7 @@
 
 ![Banner de linkedin moderno bege com gradiente rosa e roxo](https://github.com/user-attachments/assets/cc5ceac0-4792-4952-b27e-ade710dac609)
 
-## Tópicos
+## Tópicos Estudados
 - **Capítulo 03:**
   - Entrada de dados;
   - Funções;
@@ -18,9 +18,16 @@
   - Enums;
 - **Capítulo 10:**
   - *Conceitos de POO;*
-    - Herança
+    - Herança;
+    - Polimorfismo;
+    - Encapsulamento;
+    - Abstração;
+- **Capítulo 11:**
+  - Tratamento de exeções;
+- **Capítulo 13:**
+  - Trabalhando com Arquivos;
 
-   ## Ferramentas ultilizadas
+   ## Ferramentas Ultilizadas
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
